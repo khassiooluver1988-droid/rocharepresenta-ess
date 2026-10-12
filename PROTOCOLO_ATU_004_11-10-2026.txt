@@ -1,0 +1,28 @@
+PROJETO: SITE-ROCHA REPRESENTAÇÕES-ABREU
+REFERÊNCIA: ATU-SITE-ROCHA-REPRESENTA-11/10/2026-004
+DATA E HORA: 11/10/2026, 18:22:43 — Brasília
+MOTIVO: fazer o menu Materiais levar à central com todos os catálogos de materiais.
+STATUS: atualização concluída no pacote de arquivos para hospedagem própria.
+
+CHECKLIST
+- Menu Materiais aponta para #catalogos.
+- Conhecer os materiais aponta para a mesma central.
+- Quatro categorias: Granitos, Mármores, Vidros e Superfícies.
+- Granitos seleciona os 7 materiais desse grupo.
+- Superfícies seleciona Silestone e Nanoglass.
+- Vidros direciona aos 7 modelos de referência.
+- Mármores abre área própria com solicitação do catálogo pelo WhatsApp.
+- Solicitação de mármores usa mensagem específica e o contato aprovado.
+- Links de retorno à central nas seções dos catálogos.
+- Regras do menu limitadas ao cabeçalho, preservando a navegação das categorias no celular.
+- Central com 4 colunas no computador, 2 no tablet e 1 no celular.
+- Logo, imagens, materiais, contato e crédito preservados.
+- Referências locais, âncoras e sintaxe JavaScript conferidas.
+- Navegação, filtros e mensagens verificados em simulação de DOM.
+- ZIP conferido, com index.html e assets nas posições corretas.
+
+LIMITAÇÕES
+Os modelos e as imagens de mármore não foram fornecidos. O catálogo é solicitado no WhatsApp.
+Não houve teste visual em navegador; a conferência responsiva foi feita nas regras CSS.
+Nenhuma hospedagem externa foi alterada.
+Os protocolos 002 e 003 foram preservados.

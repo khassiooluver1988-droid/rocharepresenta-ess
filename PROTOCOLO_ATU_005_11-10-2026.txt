@@ -1,0 +1,34 @@
+PROJETO: SITE-ROCHA REPRESENTAÇÕES-ABREU
+REFERÊNCIA: ATU-SITE-ROCHA-REPRESENTA-11/10/2026-005
+DATA E HORA: 11/10/2026, 18:47:02 — Brasília
+MOTIVO: quatro destaques animados no início e catálogo completo com usos, descrição e qualidade.
+STATUS: atualização concluída no pacote de arquivos para hospedagem própria.
+
+ALTERAÇÕES
+- Página de início: quatro banners imediatamente após a abertura.
+- Passagem lateral automática, setas, seletores, pausa e navegação por toque e teclado.
+- Nova página materiais.html com todas as 16 fichas.
+- Filtros por categoria e busca por material, modelo, ambiente ou uso.
+- Descrição, indicação de uso e qualidade visíveis nas fichas.
+- Ampliação com cuidados, cotação e referência da página do PDF para as 9 opções.
+- Menu Materiais leva ao catálogo completo; Vidros abre o filtro correspondente.
+- PDF original incluído e disponível para download.
+- Branco Alpha identificado com a simulação da fonte recebida.
+- Categoria Mármores com solicitação específica do catálogo pelo WhatsApp.
+- Logo transparente, contato aprovado e crédito preservados.
+
+VALIDAÇÃO
+Sintaxe JavaScript conferida.
+Links, arquivos, âncoras e referências ARIA conferidos.
+As 16 fichas foram comparadas aos dados organizados.
+Fluxos interativos verificados em simulação de DOM.
+Regras CSS inspecionadas para celular, tablet e computador.
+PDF comparado por hash: cópia idêntica ao original.
+Logo e imagens anteriores comparadas por hash: preservadas.
+ZIP conferido, com as páginas na raiz e assets e catalogos nas posições corretas.
+
+LIMITAÇÕES
+O PDF não inclui modelos de mármore; o catálogo fica sob consulta.
+Indicações de uso são referências e dependem da especificação do projeto.
+Não houve teste visual em navegador nesta atualização.
+Nenhuma hospedagem externa foi alterada.

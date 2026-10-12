@@ -1,0 +1,29 @@
+PROJETO: SITE-ROCHA REPRESENTAÇÕES-ABREU
+REFERÊNCIA: ATU-SITE-ROCHA-REPRESENTA-11/10/2026-006
+DATA E HORA: 11/10/2026, 19:03:42 — Brasília
+MOTIVO: reduzir o formulário, ampliar a leitura, destacar orçamentos em verde e corrigir o contato.
+STATUS: ajustes concluídos no pacote para hospedagem própria; Instagram aguarda o perfil.
+
+CHECKLIST
+- Nome do contato atualizado para Abreu — Representante Comercial.
+- Saudação das mensagens atualizada para Abreu.
+- Número da Rocha preservado: (86) 99833-8949.
+- Formulário com nome, WhatsApp, tipo de serviço e material.
+- Materiais do formulário: Vidro, Granito e Mármore.
+- Nome e formato do WhatsApp com DDD conferidos antes de abrir a mensagem.
+- Botão envia os quatro campos para a mensagem de orçamento.
+- Link de continuidade disponível se a abertura não ocorrer.
+- Textos menores ampliados.
+- Botões de orçamento verdes e ícone do WhatsApp em verde.
+- Orçamento em todas as seções das duas páginas.
+- Catálogo, imagens, logo e PDF preservados.
+- Ícone e configuração do Instagram preparados; ocultos enquanto falta o perfil.
+- Links, ARIA, sintaxe JavaScript e fluxos verificados.
+- Contraste dos botões verdes: 5,37:1.
+- ZIP conferido, com todas as páginas e pastas para hospedagem.
+
+LIMITAÇÕES
+Instagram: falta o @ ou link correto da Rocha.
+Verificação funcional em simulação de DOM; sem teste visual em navegador.
+Nenhuma hospedagem externa foi alterada.
+Protocolos anteriores preservados.

@@ -1,0 +1,30 @@
+PROJETO: SITE-ROCHA REPRESENTAÇÕES-ABREU
+REFERÊNCIA: ATU-SITE-ROCHA-REPRESENTA-11/10/2026-007
+DATA E HORA: 11/10/2026, 19:21:20 — Brasília
+BASE VERIFICADA: ATU-SITE-ROCHA-REPRESENTA-11/10/2026-006 — 11/10/2026, 19:03:42.
+MOTIVO: deixar o fundo escuro, retirar o catálogo da página inicial e mostrar o uso e a aplicação dos materiais na página Materiais.
+STATUS: concluído no pacote para hospedagem própria.
+
+CHECKLIST
+- Tema escuro nas duas páginas, menu, rodapé, formulário e detalhes.
+- Logo transparente e contato Abreu — Representante Comercial preservados.
+- Página inicial sem catálogo e sem carrossel de materiais.
+- Menu Materiais abre diretamente a página do catálogo completo.
+- 16 fichas com descrição, qualidade, indicação de uso e exemplo de aplicação.
+- 8 fichas com amostra ou simulação de tonalidade adicional.
+- 9 novas ilustrações de aplicação geradas com imagegen e identificadas.
+- Mármores por consulta, com exemplo de aplicação e indicações gerais; nenhum modelo disponível inventado.
+- Filtros, busca e ampliação de imagens conferidos em simulação de DOM.
+- Formulário de quatro campos preservado, com telefone do cliente na mensagem.
+- Botões de orçamento e WhatsApp verdes preservados.
+- Links, arquivos, referências ARIA e JavaScript conferidos.
+- Contraste texto principal: 16,03:1; apoio nos cards: 10,00:1; dourado: 8,54:1; botão verde: 5,37:1.
+- Imagens originais, logo transparente e PDF original preservados.
+- ZIP com arquivos completos e instruções para hospedagem.
+
+LIMITAÇÕES
+Revisão visual em navegador não realizada; verificações de fluxo em DOM simulado.
+O @ correto do Instagram ainda não foi informado.
+As novas imagens são ilustrações de aplicação, não fotografias de obras da Rocha.
+As disponibilidades e variedades de mármore são confirmadas na cotação.
+Nenhuma hospedagem externa foi alterada.

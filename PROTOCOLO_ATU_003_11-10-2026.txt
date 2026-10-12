@@ -1,0 +1,41 @@
+PROJETO: SITE-ROCHA REPRESENTAÇÕES-ABREU
+REFERÊNCIA: ATU-SITE-ROCHA-REPRESENTA-11/10/2026-003
+DATA E HORA: 11/10/2026, 18:11:29 — Brasília
+MOTIVO: aplicar a nova logo sem fundo, ampliar a marca para leitura e harmonizar o fundo do site.
+STATUS: atualização concluída em arquivos locais; pacote completo para hospedagem própria.
+
+CHECKLIST CONCLUÍDO
+- Arquivo reenviado conferido: corresponde ao pacote anterior à organização 002.
+- Melhorias de mobile e desktop da atualização 002 conciliadas com o envio.
+- Imagens de logo comparadas: arquivos enviados idênticos.
+- Logo editada com imagegen no modo integrado, sem usar a alternativa CLI.
+- PNG com alpha real e fundo transparente integrado ao site.
+- Símbolo e palavra ROCHA ampliados no cabeçalho.
+- REPRESENTAÇÕES legível no cabeçalho, com 12 px no celular e 14 px no computador.
+- Logo completa em destaque na abertura e na seção A Rocha.
+- Fundos marfim e grafite, bordas douradas e tons de vidro.
+- Favicon atualizado e imagens antigas da marca removidas do pacote.
+- Catálogo de 9 materiais, 7 modelos de vidro, contato e crédito preservados.
+- Amostras e fotos de referência preservadas.
+- Referências locais, imagens e sintaxe JavaScript verificadas.
+- Espaço do cabeçalho conferido por regras CSS nas larguras 320, 360, 390, 480, 481, 640, 768 e 960 px.
+- Regras também inspecionadas para 961, 1024, 1440 e 1920 px.
+- Contraste dos novos pares de cor acima de 4,5:1.
+- Fluxos comerciais verificados em simulação de DOM.
+
+LIMITAÇÃO DE VERIFICAÇÃO
+Não foi realizado teste visual em navegador. As verificações de largura foram
+feitas nas regras CSS, sem emular ou renderizar dispositivos.
+Nenhuma hospedagem externa foi alterada. O pacote é entregue para envio pelo usuário.
+
+HISTÓRICO
+O protocolo 002 foi preservado neste pacote.
+
+INSTRUÇÃO FINAL DE EDIÇÃO DA LOGO (imagegen integrado)
+Use case: background-extraction.
+Asset: final transparent logo PNG for a website.
+Edit target: the supplied ORIGINAL Rocha Representações logo. Remove only the white background, with real alpha transparency.
+Preserve the exact centered composition, letter shapes, spelling, all gold outlines, the black marble, the WHITE/IVORY MARBLE as FULLY OPAQUE solid material, and the smoky glass panels. Keep all text unchanged: "ROCHA", "REPRESENTAÇÕES", "MÁRMORE, GRANITO, GRANILHO E VIDRO".
+The large R, the ROCHA word, both gold horizontal rules, and ALL black lettering must stay sharp and strongly opaque. Remove the background inside the R opening and inside all letter counters. The smoky glass must remain visibly smoky and detailed, not erased.
+Quality fix: the entire contour must be clean and smooth. Do not add colored red or bright yellow fringes, stray white flecks, extra glowing outlines, or detached pixels. Remove diffuse background shadows. No white background or white rectangle. No gray checkerboard painted into the picture. Leave a modest transparent margin on all four sides.
+This is exact background extraction; do not redesign or add anything.

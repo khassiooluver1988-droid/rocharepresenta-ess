@@ -1,0 +1,26 @@
+PROJETO: SITE-ROCHA REPRESENTAÇÕES-ABREU
+REFERÊNCIA: ATU-SITE-ROCHA-REPRESENTA-11/10/2026-008
+DATA E HORA: 11/10/2026, 19:37:05 — Brasília
+BASE VERIFICADA: ATU-SITE-ROCHA-REPRESENTA-11/10/2026-007 — 11/10/2026, 19:21:20.
+MOTIVO: destacar os textos da logo em branco, mostrar aplicações ao lado da marca e melhorar a abertura com nova headline e bancada em Nano Glass.
+STATUS: concluído no ZIP para hospedagem própria.
+
+CHECKLIST
+- Textos inferiores da marca em branco, com maior destaque.
+- Slogan Profissionalismo e acabamento impecável em branco.
+- Parte gráfica e transparência da marca original preservadas.
+- Headline: Seu espaço merece um acabamento à altura.
+- Imagem de aplicação em Nano Glass à direita, com gradiente escuro semitransparente.
+- Três aplicações agrupadas ao lado da logo em A Rocha: vidro, mármore e granito.
+- Composição adaptada para celular e computador.
+- Catálogo completo mantido na página Materiais; sem catálogo nem carrossel na página inicial.
+- Formulário simples, contato Abreu e orçamento pelo WhatsApp preservados.
+- Imagens de referência e ilustrações identificadas corretamente.
+- Código, links, ARIA, transparência, arquivos e ZIP conferidos.
+- Navegação, filtros, busca, detalhes e formulário conferidos em DOM simulado.
+
+LIMITAÇÕES
+Revisão visual em navegador não realizada nesta sessão.
+Instagram aguarda o perfil correto.
+As imagens geradas não representam obras realizadas pela Rocha.
+Nenhuma hospedagem externa foi alterada.

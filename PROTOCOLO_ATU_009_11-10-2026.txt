@@ -1,0 +1,31 @@
+PROJETO: SITE-ROCHA REPRESENTAÇÕES-ABREU
+REFERÊNCIA: ATU-SITE-ROCHA-REPRESENTA-11/10/2026-009
+DATA E HORA: 11/10/2026, 19:50:25 — Brasília
+BASE VERIFICADA: ATU-SITE-ROCHA-REPRESENTA-11/10/2026-008 — 11/10/2026, 19:37:05.
+MOTIVO: integrar o catálogo de vidro enviado em Serviços e Materiais, destacar a linha de importados e suavizar a imagem de Nano Glass na abertura.
+STATUS: atualização concluída no ZIP para hospedagem própria.
+
+CHECKLIST
+- Seis opções e fotografias do Catálogo_Vidros_Imagens.html integradas.
+- Nova seção Serviços de vidro na página inicial.
+- Menu e acesso por Serviços direcionam às aplicações de vidro.
+- Opção Materiais de vidro com 13 referências.
+- Catálogo completo com 22 fichas.
+- Fotos incluídas localmente, com autoria da referência preservada.
+- Catálogo de vidro integrado, com versão para visualização e botão de impressão.
+- Trabalhamos com toda a linha de importados destacado em granitos, mármores e superfícies.
+- Banner de importados oculto no filtro exclusivo de vidro.
+- Fundo de Nano Glass à direita da headline: opacidade de 24% no computador e 18% no celular, com gradiente.
+- Textos brancos da marca, headline e trio de aplicações preservados.
+- Botões de orçamento verdes e contato Abreu — Representante Comercial preservados.
+- Formulário com quatro campos preservado; opções de cuba e prateleira adicionadas ao serviço.
+- Links, arquivos, ARIA, novas mensagens, fotos e código conferidos.
+- Busca, filtros, detalhes, menus e formulário verificados em simulação de DOM.
+- ZIP completo com imagens, páginas, estilos, scripts, catálogos e instruções.
+
+LIMITAÇÕES
+Teste visual e impressão em navegador não realizados nesta sessão.
+Instagram aguarda o perfil correto.
+Mármores têm modelos e disponibilidade confirmados durante a cotação.
+Fotografias e ilustrações de referência não são apresentadas como obras executadas pela Rocha.
+Nenhuma hospedagem externa foi alterada.
